@@ -1,0 +1,10 @@
+{
+  "name": "Voice Notes",
+  "description": "Voice note-taking app with automatic transcription, Google Drive storage and retrieval, and smart keyword tagging.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
